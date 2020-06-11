@@ -9,7 +9,7 @@ $ go install github.com/ultranaco/mockcat
 
 ## Usage:
 
-With de given file `collection-item.json`
+With the given file `collection-item.json`
 
 ```
 [{
