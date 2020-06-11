@@ -1,5 +1,5 @@
 # mockcat
-Just another mock server but this one is chido. Mockcat is a command line application to raise a http server from any file type also allow make CRUD operations with JSON file that contains an array of elements or one element at root
+Just another mock server but this one is chingon. Mockcat is a command line application to raise a http server from any file type also allow make CRUD operations with JSON file that contains an array of elements or one element at root
 
 ## Install:
 
