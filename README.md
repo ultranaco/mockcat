@@ -20,8 +20,8 @@ $ mockcat collection-item.json
 ## Options
 
 ```
--m   :property matcher used to retrieve an item from array of elements through root properties, default 'id'
--p   :port to listen incoming requests, default '8080'
+-m   :property matcher used to retrieve an item from array of elements through root properties, default id
+-p   :port to listen incoming requests, default 8080
 ```
 
 
